@@ -1,0 +1,5 @@
+Favor de colocar estas credenciales en los apartados: sid, token, from respectivamente
+
+sid: AC4a72bc78af361978a0772da0289f6b4f
+token: d7bb69605b862999fe1eb2bb303c1ed8
+numero de telefono de twilio (from): +12563630491
